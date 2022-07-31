@@ -14,6 +14,7 @@ def persona_search(name):
             if persona.name == name:
                 return persona
 
+
 def compendium(arcana=None):
     """
     Compiles a compendium of the names, arcanas, and levels of every Persona and returns it as a string.

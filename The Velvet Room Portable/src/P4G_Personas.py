@@ -307,7 +307,7 @@ Star = [
 Moon = [
     Persona("Andras", "Moon", 20, [14, 16, 13, 12, 12], [1, 1, 1, 3, 0, 1, 1]),
     Persona("Nozuchi", "Moon", 27, [26, 13, 19, 15, 15], [1, 1, 0, 4, 1, 1, 1]),
-    Persona("Yamata-no-Orochi", "Moon", 34, [29, 21, 26, 18, 15], [1, 0, 3, 3, 0, 1, 1]),
+    Persona("Yamatano-Orochi", "Moon", 34, [29, 21, 26, 18, 15], [1, 0, 3, 3, 0, 1, 1]),
     Persona("Alraune", "Moon", 41, [17, 35, 21, 29, 28], [1, 2, 2, 1, 0, 1, 3]),
     Persona("Girimehkala", "Moon", 48, [36, 35, 23, 30, 27], [4, 1, 1, 1, 1, 0, 0]),
     Persona("Sui-Ki", "Moon", 57, [42, 49, 43, 33, 17], [1, 0, 5, 4, 1, 1, 1]),
