@@ -3,7 +3,7 @@ Welcome to the Velvet Room!
 
 DO NOT DELETE igor.png !!! The application is dependent on it!
 
-This is an open source Python application with the goal of making fusing Personas in Persona 4 Golden easy. Feel free to modify it and reupload your modified version to your heart's content. I made the scripts for this while learning tkinter at the exact same time, so the GUI is somewhat barebones, and if anyone wants to make improvements to that in particular, feel free.
+This is an open-source Python 3.9 application with the goal of making fusing Personas in Persona 4 Golden easy. Feel free to modify it and reupload your modified version to your heart's content. I made the scripts for this while learning tkinter at the exact same time, so the GUI is somewhat barebones, and if anyone wants to make improvements to that in particular, feel free. I made this because I wanted it and it didn't exist, not because I wanted to make money off of it or anything.
 
 I tested this pretty thoroughly, but if you encounter any issues I missed, post an Issue on Github. Tell me exactly what you were trying to do so that I can replicate what you did.
 
