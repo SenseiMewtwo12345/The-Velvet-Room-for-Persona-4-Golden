@@ -7,15 +7,15 @@ This is an open source Python application with the goal of making fusing Persona
 
 I tested this pretty thoroughly, but if you encounter any issues I missed, post an Issue on Github. Tell me exactly what you were trying to do so that I can replicate what you did.
 
-=======================
+
 Istallation
-=======================
+===========
 
 Just download the folder and extract it to wherever you want.
 
-=======================
+
 Features:
-=======================
+=========
 
 Arcana Double Fusion: See the result of fusing two Arcanas.
 
