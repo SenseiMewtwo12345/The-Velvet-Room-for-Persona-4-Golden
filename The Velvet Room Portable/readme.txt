@@ -31,3 +31,8 @@ Restricted Fusion Search: Show all the possible fusions that involve a single Pe
 Persona Search: Search a Persona by name to see information about it.
 
 Persona Compendium: Display the name, level, and Arcana of every Persona in Persona 4 Golden. Can also display all Special Fusions.
+
+=======================
+Bugfixes (7/31/22)
+=======================
+Fixed a bug where Yamatano-Orochi was referred to as Yamata-no-Orochi
