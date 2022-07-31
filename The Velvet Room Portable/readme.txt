@@ -7,7 +7,7 @@ This is an open source Python 3.9 application with the goal of making fusing Per
 I tested this pretty thoroughly, but if you encounter any issues I missed, post an Issue on Github. Tell me exactly what you were trying to do so that I can replicate what you did.
 
 =======================
-Istallation
+Installation
 =======================
 
 Just download the folder and extract it to wherever you want.
