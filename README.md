@@ -1,0 +1,2 @@
+# The-Velvet-Room-for-Persona-4-Golden
+This is an open source Python application with the goal of making fusing Personas in Persona 4 Golden easy. Feel free to modify it and reupload your modified version to your heart's content. I made the scripts for this while learning tkinter at the exact same time, so the GUI is somewhat barebones, and if anyone wants to make improvements to that in particular, feel free.
