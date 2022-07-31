@@ -23,7 +23,7 @@ Arcana Triple Fusion: See the result of fusing three Arcanas.
 
 Persona Double Fusion: Enter two Persona names and see the result.
 
-Persona Trioke Fusion: Enter three Persona names and see the result.
+Persona Triple Fusion: Enter three Persona names and see the result.
 
 Full Fusion Search: Show all the possible fusions that can be performed with up to 12 Personas
 
