@@ -22,7 +22,7 @@ Persona Double Fusion: Enter two Persona names and see the result.
 
 Persona Triple Fusion: Enter three Persona names and see the result. 
 
-Note that this assumes that all Personas are at their base levels, or at least their level order is still the same. If the result of this is wrong, it's probably because one of the Personas you're fusing with is much higher level than normal. Since I don't want to confuse the user with too many entry fields on the Fusion Search windows and because this is such a special case, I'm going to leave this as-is. If you get an incorrect result but you want the result this calculator gives you, simply level the highest base level Persona until it is the highest current level Persona again.
+Note that this assumes that all Personas are at their base levels, or at least the highest current level Persona is still the same. If the result of this is wrong, it's probably because one of the Personas you're fusing with is much higher level than normal. Since I don't want to confuse the user with too many entry fields on the Fusion Search windows and because this is such a special case, I'm going to leave this as-is. If you get an incorrect result but you want the result this calculator gives you, simply level the highest base level Persona until it is the highest current level Persona again.
 
 Full Fusion Search: Show all the possible fusions that can be performed with up to 12 Personas
 
