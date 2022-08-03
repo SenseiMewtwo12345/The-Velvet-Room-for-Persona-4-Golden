@@ -36,4 +36,5 @@ Persona Compendium: Display the name, level, and Arcana of every Persona in Pers
 Bugfixes:
 =======================
 Fixed a bug where Andra was referred to as Andras and removed the dependancy on igor.png (8/2/22)
+
 Fixed a bug where Yamatano-Orochi was referred to as Yamata-no-Orochi (7/31/22)
