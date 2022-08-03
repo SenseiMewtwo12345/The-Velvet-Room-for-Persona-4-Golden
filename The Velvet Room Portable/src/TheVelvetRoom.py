@@ -89,8 +89,8 @@ class VelvetRoomPortable(Tk):
         self.geometry("1280x720")
         self.title("The Velvet Room Portable")
 
-        icon = PhotoImage(file="igor.png")
-        self.iconphoto(True, icon)
+        # icon = PhotoImage(file="igor.png")
+        # self.iconphoto(True, icon)
 
         container = Frame(self, bg=bg1)
 
