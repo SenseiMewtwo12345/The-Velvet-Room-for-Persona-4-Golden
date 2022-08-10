@@ -1,4 +1,7 @@
 # The-Velvet-Room-for-Persona-4-Golden
+
+Current version - 1.03
+
 Welcome to the Velvet Room!
 
 This is an open-source Python 3.9 application with the goal of making fusing Personas in Persona 4 Golden easy. Feel free to modify it and reupload your modified version to your heart's content. I made the scripts for this while learning tkinter at the exact same time, so the GUI is somewhat barebones, and if anyone wants to make improvements to that in particular, feel free. I made this because I wanted it and it didn't exist, not because I wanted to make money off of it or anything.
@@ -35,7 +38,7 @@ Persona Compendium: Display the name, level, and Arcana of every Persona in Pers
 
 Bugfixes:
 =======================
-Fixed a bug where Hitokotonusi was named Hitoko-Nushi. (For the record, the second spelling is the correct one, but it turns out that the English version of the game uses the first spelling.) Also solved an issue where some Persona calculations were incorrect because of a small bug in the level calculator where I forgot to account for how the game rounds a result with a decimal. (8/9/22)
+Fixed a bug where Hitokotonusi was named Hitoko-Nushi and Kushinada was nnamed Kushinada-Hime. (For the record, my versions the correct ones, but it turns out that the English version of the game uses the bugfix versions.) Also solved an issue where some Persona calculations were incorrect because of a small bug in the level calculator where I forgot to account for how the game rounds a result with a decimal. (8/9/22)
 
 Fixed a bug where Andra was referred to as Andras and removed the dependency on igor.png (8/2/22)
 
