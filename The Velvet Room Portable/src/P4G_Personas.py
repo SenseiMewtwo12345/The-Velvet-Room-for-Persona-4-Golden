@@ -194,7 +194,7 @@ Hermit = [
     Persona("Ippon-Datara", "Hermit", 17, [15, 6, 14, 13, 10], [1, 2, 1, 1, 1, 0, 3]),
     Persona("Lamia", "Hermit", 26, [16, 23, 12, 20, 14], [1, 2, 1, 2, 1, 1, 3]),
     Persona("Mothman", "Hermit", 33, [20, 23, 17, 28, 18], [1, 2, 0, 4, 1, 1, 1]),
-    Persona("Hitoko-Nushi", "Hermit", 41, [28, 33, 20, 20, 19], [1, 0, 3, 1, 3, 1, 1]),
+    Persona("Hitokotonusi", "Hermit", 41, [28, 33, 20, 20, 19], [1, 0, 3, 1, 3, 1, 1]),
     Persona("Kurama Tengu", "Hermit", 48, [30, 34, 28, 38, 21], [1, 2, 1, 0, 5, 1, 1]),
     Persona("Niddhoggr", "Hermit", 55, [23, 41, 35, 31, 42], [1, 1, 3, 1, 1, 0, 3]),
     Persona("Nebiros", "Hermit", 63, [38, 47, 39, 40, 32], [1, 4, 1, 0, 2, 0, 3]),
@@ -287,7 +287,7 @@ Tower = [
     Persona("Mara", "Tower", 62, [44, 35, 48, 36, 30], [1, 5, 1, 1, 2, 0, 4]),
     Persona("Masakado", "Tower", 69, [51, 32, 45, 46, 40], [3, 3, 1, 0, 1, 1, 0]),
     Persona("Yoshitsune", "Tower", 75, [52, 39, 49, 61, 34], [3, 2, 1, 4, 1, 4, 1],
-            special_fusion=["Masakado", "Shiki-Ouji", "Oukuninushi", "Hachima", "Hitokoto-Nushi"]),
+            special_fusion=["Masakado", "Shiki-Ouji", "Oukuninushi", "Hachima", "Hitokotonusi"]),
     Persona("Shiva", "Tower", 80, [59, 48, 44, 54, 42], [1, 1, 5, 4, 1, 1, 1], max_sl_req=True,
             special_fusion=["Rangda", "Barong"])
 ]
