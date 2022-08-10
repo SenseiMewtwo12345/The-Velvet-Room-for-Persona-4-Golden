@@ -35,6 +35,6 @@ Persona Compendium: Display the name, level, and Arcana of every Persona in Pers
 =======================
 Bugfixes 
 =======================
-Fixed a bug where Hitokotonusi was named Hitoko-Nushi. (For the record, the second spelling is the correct one, but it turns out that the English version of the game uses the first spelling.) Also solved an issue where some Persona calculations were incorrect because of a small bug in the level calculator where I forgot to account for how the game rounds a result with a decimal. (8/9/22)
+Fixed a bug where Hitokotonusi was named Hitoko-Nushi and Kushinada was nnamed Kushinada-Hime. (For the record, my versions the correct ones, but it turns out that the English version of the game uses the bugfix versions.) Also solved an issue where some Persona calculations were incorrect because of a small bug in the level calculator where I forgot to account for how the game rounds a result with a decimal. (8/9/22)
 Fixed a bug where Andra was referred to as Andras and removed the dependancy on igor.png (8/2/22)
 Fixed a bug where Yamatano-Orochi was referred to as Yamata-no-Orochi (7/31/22)
