@@ -1,6 +1,6 @@
 from tkinter import messagebox
-from fusion_chart import *
 from PersonaSearch import *
+import math
 
 
 def special_fusion_checker(name_list):
@@ -106,7 +106,7 @@ def persona_double_fusion(name1, name2):
         else:
             arcana_index = arcanas.index(arcana_result)
             level_calc = ((persona1.base_lv + persona2.base_lv) / 2.) + 1
-            level_calc.floor()   # The game floors this calculation.
+            level_calc = math.floor(level_calc)
 
             for persona in Personas[arcana_index]:
                 if persona.base_lv >= level_calc and persona.special_fusion is None:  # Skip if special fusion.
@@ -178,7 +178,7 @@ def persona_double_fusion_noerr(name1, name2):
         else:
             arcana_index = arcanas.index(arcana_result)
             level_calc = ((persona1.base_lv + persona2.base_lv) / 2.) + 1
-            level_calc.floor()  # The game floors this calculation.
+            level_calc = math.floor(level_calc)
 
             for persona in Personas[arcana_index]:
                 if persona.base_lv >= level_calc and persona.special_fusion is None:  # Skip if special fusion.
@@ -282,7 +282,7 @@ def persona_triple_fusion(name1, name2, name3):
         # This fusion cannot be invalid, so we'll skip that step.
         arcana_index = arcanas.index(arcana_result)
         level_calc = ((persona1.base_lv + persona2.base_lv + persona3.base_lv) / 3.) + 5
-        level_calc.floor()  # The game floors this calculation.
+        level_calc = math.floor(level_calc)
 
         for persona in Personas[arcana_index]:
             if persona.base_lv >= level_calc and persona.special_fusion is None:   # Skip if special fusion.
@@ -368,7 +368,7 @@ def persona_triple_fusion_noerr(name1, name2, name3):
         # This fusion cannot be invalid, so we'll skip that step.
         arcana_index = arcanas.index(arcana_result)
         level_calc = ((persona1.base_lv + persona2.base_lv + persona3.base_lv) / 3.) + 5
-        level_calc.floor()  # The game floors this calculation.
+        level_calc = math.floor(level_calc)
 
         for persona in Personas[arcana_index]:
             if persona.base_lv >= level_calc and persona.special_fusion is None:   # Skip if special fusion.
